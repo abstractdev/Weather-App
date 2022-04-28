@@ -1,5 +1,5 @@
 Weather app
-![Alt text](./weather.png "Title")
+![Alt text](./weather3.png "Title")
 ============
 
 A mobile responsive weather app that I made to practice using APIs and Javascript Promises.
