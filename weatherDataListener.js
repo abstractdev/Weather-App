@@ -8,4 +8,4 @@ export const weatherDataListener = () => {
     getWeatherData(search.value);
     form.reset();
   });
-}
+};
