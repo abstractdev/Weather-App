@@ -1,5 +1,5 @@
-Weather app [LIVE](https://abstractdev.github.io/Weather-App/)
-![Alt text](./weather3.png "Title")
+Weather App [LIVE](https://abstractdev.github.io/Weather-App/)
+![Alt text](./weather3.png "Weather App")
 ============
 
 A mobile responsive weather app that I made to practice using APIs and Javascript Promises.
