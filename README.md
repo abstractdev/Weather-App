@@ -1,7 +1,8 @@
-Weather App [LIVE](https://abstractdev.github.io/Weather-App/)
-![Alt text](./weather3.png "Weather App")
+Weather app
+[![Weather App](/weather1.png)](https://abstractdev.github.io/Weather-App/)
 ============
 
+[Live Demo](https://abstractdev.github.io/Weather-App/)</br>
 A mobile responsive weather app that I made to practice using APIs and Javascript Promises.
 
 ---
@@ -11,7 +12,7 @@ A mobile responsive weather app that I made to practice using APIs and Javascrip
 - Fahrenheit to Celcius converter
 ## Built With
 - Vanilla Javascript
-- SCSS
+- Sass
 ## Concepts
 - Javascript Promises
 - Fetch API
