@@ -1,8 +1,8 @@
 Weather app
-[![Weather App](/weather1.png)](https://abstractdev.github.io/Weather-App/)
+[![Weather App](/weather1.png)](https://abstractdev.github.io/weather-app/)
 ============
 
-[Live Demo](https://abstractdev.github.io/Weather-App/)</br>
+[Live Demo](https://abstractdev.github.io/weather-app/)</br>
 A mobile responsive weather app that I made to practice using APIs and Javascript Promises.
 
 ---
